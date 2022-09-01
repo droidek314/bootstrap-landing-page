@@ -177,7 +177,7 @@ body{
 }
 
 @media (max-width: 991.5px){
-  #title{
+  #title-h1{
     text-align: center;
   }
 }
